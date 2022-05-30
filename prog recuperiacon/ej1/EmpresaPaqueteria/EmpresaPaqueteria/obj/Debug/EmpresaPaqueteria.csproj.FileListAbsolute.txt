@@ -1,0 +1,8 @@
+C:\Users\Raul\Desktop\prog recuperiacon\ej1\EmpresaPaqueteria\EmpresaPaqueteria\bin\Debug\EmpresaPaqueteria.exe.config
+C:\Users\Raul\Desktop\prog recuperiacon\ej1\EmpresaPaqueteria\EmpresaPaqueteria\bin\Debug\EmpresaPaqueteria.exe
+C:\Users\Raul\Desktop\prog recuperiacon\ej1\EmpresaPaqueteria\EmpresaPaqueteria\bin\Debug\EmpresaPaqueteria.pdb
+C:\Users\Raul\Desktop\prog recuperiacon\ej1\EmpresaPaqueteria\EmpresaPaqueteria\obj\Debug\EmpresaPaqueteria.csproj.AssemblyReference.cache
+C:\Users\Raul\Desktop\prog recuperiacon\ej1\EmpresaPaqueteria\EmpresaPaqueteria\obj\Debug\EmpresaPaqueteria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Raul\Desktop\prog recuperiacon\ej1\EmpresaPaqueteria\EmpresaPaqueteria\obj\Debug\EmpresaPaqueteria.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Desktop\prog recuperiacon\ej1\EmpresaPaqueteria\EmpresaPaqueteria\obj\Debug\EmpresaPaqueteria.exe
+C:\Users\Raul\Desktop\prog recuperiacon\ej1\EmpresaPaqueteria\EmpresaPaqueteria\obj\Debug\EmpresaPaqueteria.pdb
